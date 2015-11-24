@@ -13,7 +13,7 @@ Once he was an Ideal Citizen. The epitome of perfection and patriotism carefully
 ##To Kill A Goddess 
 >##Act I - The Hand of Death##
 >>###Chapter I - The End
->##Act II - Dead Eyes
->##Act III - Death's Child
->##Act VI - Death's Apprentice
->##Act V - Apprentice 
+##Act II - Dead Eyes
+##Act III - Death's Child
+##Act VI - Death's Apprentice
+##Act V - Apprentice 
